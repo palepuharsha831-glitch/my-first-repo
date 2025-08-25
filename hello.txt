@@ -1,3 +1,4 @@
 HARSHA 
 
-I have learn how to create my first repository.
+i have learned how to create my first repository
+I have learn how to upload a file in Github
